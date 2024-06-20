@@ -1,12 +1,12 @@
 <p><h2 align="left" style="text-decoration: none; cursor: none;">Hey there, I am <span style="color: #00c2e0">Tuhin Mondal</span>
 <br/>
-<h3 align="left">Currently pursuing my B.Tech Degree in Computer Science & Engineering at Indian Institute of Technology, Kharagpur.</h3></p>
+<h6 align="left">Currently pursuing my B.Tech Degree in Computer Science & Engineering at Indian Institute of Technology, Kharagpur.I am passionate about coding, competitive programming, problem solving, and constantly learning new technologies.</h6></p>
 <p><h2 style="text-decoration: none; cursor: none;"> 🌐 <span style="color: #00c2e0">Socials:</span></h2></p>
 
 <p style="color: #fff;">
 <a href = " "><img src = "Images/linkedin.png" width = "30px"/></a>
 <a href = " "><img src = "Images/instagram.png" width = "30px"/></a>                
-<a href = " "><img src = "Images/x.png" width = "30px"/></a>                    
+<a href = " "><img src = "Images/x.png" width = "34px"/></a>                    
 <a href = " "><img src = "Images/gmail.png" width = "30px"/></a>
 
 
