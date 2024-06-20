@@ -21,7 +21,7 @@
   </div>
 
 <p><h3>Web Dev Stacks</h3></p>
-  <div style="display: flex; gap:8px; flex-wrap: wrap;">
+  <div style="display: flex; gap:12px; flex-wrap: wrap;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width=40 style="filter: invert(1);"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=40 />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40 />
