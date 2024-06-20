@@ -4,10 +4,10 @@
 <p><h2 style="text-decoration: none; cursor: none;"> 🌐 <span style="color: #00c2e0">Socials:</span></h2></p>
 
 <p style="color: #fff;">
-<a href = " "><img src = "images/linkedin.png" width = "37px"/></a>
-<a href = " "><img src = "images/instagram.png" width = "37px"/></a>                
-<a href = " "><img src = "images/twitter.png" width = "37px"/></a>                    
-<a href = " "><img src = "images/gmail.png" width = "37px"/></a>
+<a href = " "><img src = "Images/linkedin.png" width = "30px"/></a>
+<a href = " "><img src = "Images/instagram.png" width = "30px"/></a>                
+<a href = " "><img src = "Images/x.png" width = "30px"/></a>                    
+<a href = " "><img src = "Images/gmail.png" width = "30px"/></a>
 
 
 
