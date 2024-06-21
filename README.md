@@ -5,7 +5,16 @@
 <p style="color: #fff; font-family: sans-serif;">
 <a href = "https://in.linkedin.com/in/tuhin-mondal-52573b268"><img src = "Images/linkedin.png" width = "30px"/></a>
 <a href = "https://www.instagram.com/tuhin018/"><img src = "Images/instagram.png" width = "30px"/></a>                
-<a href = "https://www.twitter.com/Tuhin_011"><img src = "Images/x.png" width = "30px" height = "30px"/></a>                    
+<a href = "https://www.twitter.com/Tuhin_011"><img src = "Images/x.png" width = "30px" height = "30px"/></a>  
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Ecolash">
+  <img width="55.5%" src="https://github-readme-stats.vercel.app/api?username=ecolash&theme=github_dark&show_icons=true"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecolash&layout=compact&theme=github_dark"/>
+</a>
+</p>
 
 <h3 style="font-family: sans-serif; text-decoration: none; cursor: none;">⚙ <span style="color: #00c2e0">Tech Stack:</span></h3>
 
