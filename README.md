@@ -37,6 +37,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width=35/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width=35/>
 </div>
+
+![Tuhin Mondal](https://raw.githubusercontent.com/Ecolash/Ecolash/main/Images/bottom_header.svg)
 <br/>
 
 ---
