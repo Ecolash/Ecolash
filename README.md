@@ -1,4 +1,4 @@
-<p><h3 align="left" style="font-family: sans-serif; text-decoration: none; cursor: none;">Hey there, I am <span style="color: #00c2e0">Tuhin Mondal</span></h3>
+<p><h3 align="left" style="font-family: sans-serif; text-decoration: none; cursor: none;">Hey there, I'm <span style="color: #00c2e0">Tuhin 👋</span></h3>
 <h4 align="left" style="font-family: sans-serif; font-weight: normal;">Currently pursuing my B.Tech Degree in Computer Science & Engineering at Indian Institute of Technology, Kharagpur. I am passionate about coding, software development, competitive programming, problem solving, and constantly learning new skills and technologies.</h4></p>
 
 <h3 style="font-family: sans-serif; text-decoration: none; cursor: none;"> 🌐 <span style="color: #00c2e0">Socials:</span></h3>
@@ -48,6 +48,7 @@
 </div>
 
 ![Tuhin Mondal](https://raw.githubusercontent.com/Ecolash/Ecolash/main/Images/bottom_header.svg)
+<a href="https://u8views.com/github/Ecolash"><img src="https://u8views.com/api/v1/github/profiles/137093087/views/day-week-month-total-count.svg"></a>
 <br/>
 
 ---
