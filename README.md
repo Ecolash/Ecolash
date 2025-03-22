@@ -1,5 +1,29 @@
-<p><h3 align="left" style="font-family: sans-serif; text-decoration: none; cursor: none;">Hey there, I'm <span style="color: #00c2e0">Tuhin 👋</span></h3>
-<h4 align="left" style="font-family: sans-serif; font-weight: normal;">Currently pursuing my B.Tech Degree in Computer Science & Engineering at Indian Institute of Technology, Kharagpur. I am passionate about coding, software development, competitive programming, problem solving, and constantly learning new skills and technologies.</h4></p>
+<div align="left">
+
+## 👋 Hey there, I'm <span style="color: #00c2e0">Tuhin</span>
+
+<div style="font-size: 18px">
+
+I'm currently pursuing my **B.Tech Degree in Computer Science & Engineering** at **Indian Institute of Technology, Kharagpur**. I'm fluent in C, C++, Java, and Python, and a self-proclaimed web developer. Other times? I just sit there, staring at my screen, wondering if the bug is in my code or in my life choices...
+
+### 💻 Technical Interests:
+
+- 🚀 **Software Development**
+- 🧠 **Machine Learning** & AI Applications
+- 🏆 **Competitive Programming** & Algorithm Design
+- 🧩 **Problem Solving** & Analytical Thinking
+- 🖥️ **System Design** - OS, Computer Networks & Architecture
+- 🌐 **Web Development** & Full-Stack Applications
+
+### 🎯 Hobbies & Interests
+
+- 🎨 **Painting** - with colours brighter than my future
+- 🏏 **Cricket** - A cricket expert... until someone asks me the Duckworth-Lewis rule
+- ♟️ **Chess** - I've got one strategy: Blunder and pray opponent doesn't notice
+- 🎬 **Movies & Anime** - I know it's fiction... but my heart doesn’t.
+
+</div>
+</div>
 
 <h3 style="font-family: sans-serif; text-decoration: none; cursor: none;"> 🌐 <span style="color: #00c2e0">Socials:</span></h3>
 <p style="color: #fff; font-family: sans-serif;">
