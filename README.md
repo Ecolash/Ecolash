@@ -1,6 +1,6 @@
 <div align="left">
 
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="28px"> Hey there, I'm <span style="color: #00c2e0">Tuhin</span>
+## 👋  Hey there, I'm <span style="color: #00c2e0">Tuhin</span>
 
 <div style="font-size: 18px">
 
