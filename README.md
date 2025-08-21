@@ -36,7 +36,7 @@ I'm currently pursuing my **B.Tech Degree in Computer Science & Engineering** at
 <p align="center">
 <a href="https://github.com/Ecolash">
   <img width="59%" src="https://github-readme-stats.vercel.app/api?username=ecolash&theme=github_dark&show_icons=true"/>
-  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecolash&layout=compact&theme=github_dark&langs_count=8&size_weight=0.35&count_weight=0.55&hide=HTML,CSS,Tcl,Assembly"/>
+  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecolash&layout=compact&theme=github_dark&langs_count=8&size_weight=0.25&count_weight=0.75&hide=HTML,CSS,Tcl,Assembly"/>
 </a>
 </p>
 
