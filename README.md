@@ -2,7 +2,7 @@
   
 # 👋 Hey there, I'm <span style="color: #00c2e0">Tuhin Mondal</span>  
   
-**🎓 CSE Undergraduate @ IIT Kharagpur | Full-Stack Developer | Exploring AI, Software, & Systems**
+### **🎓 CSE Undergraduate @ IIT Kharagpur | Full-Stack Developer | Exploring AI, Software, & Systems**
 
 </div>
 
