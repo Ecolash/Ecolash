@@ -1,10 +1,21 @@
-<div align="left">
+<div align="center">
+  
+# 👋 Hey there, I'm <span style="color: #00c2e0">Tuhin Mondal</span>  
+  
+**🎓 CSE Undergraduate @ IIT Kharagpur | Full-Stack Developer | Exploring AI, Software, & Systems**
 
-## 👋  Hey there, I'm <span style="color: #00c2e0">Tuhin</span>
+</div>
 
-<div style="font-size: 18px">
+---
+## ✨ About Me  
 
-I'm currently pursuing my **B.Tech Degree in Computer Science & Engineering** at **Indian Institute of Technology, Kharagpur**. I'm fluent in C, C++, Java, and Python, and a self-proclaimed web developer. Other times? I just sit there, staring at my screen, wondering if the bug is in my code or in my life choices...
+Currently I'm pursuing my **B.Tech Degree in Computer Science & Engineering** at **Indian Institute of Technology, Kharagpur**. I'm fluent in C, C++, Go, Typescript and Python.
+
+💡 Curious mind exploring the world of **Software, AI, and Systems**.  
+🔧 Breaking code (and sometimes fixing it).  
+🎨 Outside tech? You’ll catch me **painting**, **playing cricket**, or **watching anime**.  
+
+---
 
 ### 💻 Technical Interests:
 
