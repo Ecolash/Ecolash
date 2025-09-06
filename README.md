@@ -19,9 +19,9 @@
   <img alt="GitHub Breakout Game" src="https://raw.githubusercontent.com/Ecolash/Ecolash/github-breakout/images/breakout-light.svg" />
 </picture> -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<your-username>/<your-repo>/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<your-username>/<your-repo>/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/<your-username>/<your-repo>/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ecolash/Ecolash/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ecolash/Ecolash/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Ecolash/Ecolash/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ## ✨ About Me  
