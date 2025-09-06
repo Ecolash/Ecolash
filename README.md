@@ -24,9 +24,9 @@
 ## ✨ About Me  
 
 ◉ Pursuing **B.Tech in Computer Science & Engineering** at [IIT Kharagpur ↗](https://www.iitkgp.ac.in/)                    
-◉ Exploring Software, AI & Systems, experimenting with languages, frameworks, and emerging tools.
-◉ Breaking code (and fixing it smarter), optimizing solutions, and learning through challenges.
-◉ Lifelong learner chasing the next big idea, diving into AI, cloud, and impactful projects.
+◉ Exploring Software, AI & Systems, experimenting with languages, frameworks, and emerging tools.                   
+◉ Breaking code (and fixing it smarter), optimizing solutions, and learning through challenges.                   
+◉ Lifelong learner chasing the next big idea, diving into AI, cloud, and impactful projects.                   
 
 ## 💻 Technical Interests:
 
