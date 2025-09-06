@@ -7,6 +7,18 @@
 </div>
 
 ---
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Ecolash/Ecolash/github-breakout/images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Ecolash/Ecolash/github-breakout/images/breakout-light.svg"
+  />
+  <img alt="GitHub Breakout Game" src="https://raw.githubusercontent.com/Ecolash/Ecolash/github-breakout/images/breakout-light.svg" />
+</picture>
+
 ## ✨ About Me  
 
 Currently I'm pursuing my **B.Tech Degree in Computer Science & Engineering** at **Indian Institute of Technology, Kharagpur**. I'm fluent in C, C++, Go, Typescript and Python.
