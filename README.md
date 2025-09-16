@@ -17,9 +17,13 @@
 </picture> -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ecolash/Ecolash/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ecolash/Ecolash/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ecolash/Ecolash/github-breakout/images/breakout-light.svg" />
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Ecolash/Ecolash/output/github-contribution-grid-snake.svg" style="width: 100%; height: auto;" />
 </picture>
+
+> <small>💡 <strong>Tip:</strong> Switch your GitHub theme (🌙 dark / ☀️ light) to toggle between the <strong>Breakout Game</strong> and the <strong>Snake Animation</strong>!</small>
+
+
 
 ## ✨ About Me  
 
