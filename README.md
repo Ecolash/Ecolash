@@ -23,9 +23,7 @@
 
 > <small>💡 <strong>Tip:</strong> Switch your GitHub theme (🌙 dark / ☀️ light) to toggle between the <strong>Breakout Game</strong> and the <strong>Snake Animation</strong>!</small>
 
-
-
-## ✨ About Me  
+<!-- ## ✨ About Me  
 
 ◉ Pursuing **B.Tech in Computer Science & Engineering** at [IIT Kharagpur ↗](https://www.iitkgp.ac.in/)                    
 ◉ Exploring Software, AI & Systems, experimenting with languages, frameworks, and emerging tools.                   
@@ -49,13 +47,7 @@
 - 🎬 **Movies & Anime** - I know it's fiction... but my heart doesn’t.
 
 </div>
-</div>
-
-<h3 style="font-family: sans-serif; text-decoration: none; cursor: none;"> 🌐 <span style="color: #00c2e0">Socials:</span></h3>
-<p style="color: #fff; font-family: sans-serif;">
-<a href = "https://in.linkedin.com/in/tuhin-mondal-52573b268"><img src = "Images/linkedin.png" width = "30px"/></a>
-<a href = "https://www.instagram.com/tuhin018/"><img src = "Images/instagram.png" width = "30px"/></a>                
-<a href = "https://www.twitter.com/Tuhin_011"><img src = "Images/x.png" width = "30px" height = "30px"/></a>  
+</div> -->
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -145,6 +137,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width=35/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width=35/>
 </div>
+
+<h3 style="font-family: sans-serif; text-decoration: none; cursor: none;"> 🌐 <span style="color: #00c2e0">Socials:</span></h3>
+<p style="color: #fff; font-family: sans-serif;">
+<a href = "https://in.linkedin.com/in/tuhin-mondal-52573b268"><img src = "Images/linkedin.png" width = "30px"/></a>
+<a href = "https://www.instagram.com/tuhin018/"><img src = "Images/instagram.png" width = "30px"/></a>                
+<a href = "https://www.twitter.com/Tuhin_011"><img src = "Images/x.png" width = "30px" height = "30px"/></a>  
 
 ![Tuhin Mondal](https://raw.githubusercontent.com/Ecolash/Ecolash/main/Images/bottom_header.svg)
 <a href="https://u8views.com/github/Ecolash"><img src="https://u8views.com/api/v1/github/profiles/137093087/views/day-week-month-total-count.svg"></a>
