@@ -54,7 +54,7 @@
 <p align="center">
 <a href="https://github.com/Ecolash">
   <img width="56.5%" src="https://github-readme-stats.vercel.app/api?username=ecolash&theme=github_dark&show_icons=true&icon_color=ff474c&title_color=ffcccc&include_all_commits=true&count_private=true&show=prs_merged,issues,contribs&cache_seconds=86400"/>
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecolash&layout=compact&theme=github_dark&langs_count=8&size_weight=0.25&count_weight=0.76&hide=HTML,CSS,Tcl,Assembly"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecolash&layout=compact&theme=github_dark&langs_count=8&size_weight=0.25&count_weight=0.76&hide=HTML,CSS,Tcl,Assembly,Jupyter%20Notebook"/>
 </a>
 </p>
 
