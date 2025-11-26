@@ -1,4 +1,4 @@
-const apiUrl = "https://opbento.edgexhq.tech/api/bento?n=Tuhin%20Mondal&g=Ecolash&x=Tuhin_011&l=tuhin018&i=https%3A%2F%2Fraw.githubusercontent.com%2FEcolash%2FEcolash%2Frefs%2Fheads%2Fmain%2FImages%2Fbanner-pic.png&p=&z=5254a";
+const apiUrl = "https://opbento.vercel.app/api/bento?n=Tuhin%20Mondal&g=Ecolash&x=Tuhin_011&l=tuhin018&i=https%3A%2F%2Fraw.githubusercontent.com%2FEcolash%2FEcolash%2Frefs%2Fheads%2Fmain%2FImages%2Fbanner-pic.png&p=&z=5254a";
 interface BentoResponse {
   url: string;
 }
