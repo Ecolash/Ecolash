@@ -1,67 +1,21 @@
 <div align="center">
+
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FEcolash5254a.png?alt=media)
   
-# 👋 Hey there, I'm <span style="color: #00c2e0">Tuhin Mondal</span>  
 
-### **🎓 CSE Undergraduate @ IIT Kharagpur | Full-Stack Developer | Exploring AI, Software, & Systems**
+### **🎓 CSE Undergraduate @ IIT Kharagpur | Exploring AI, Software, & Systems**
 </div>
-<!-- <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Ecolash/Ecolash/github-breakout/images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Ecolash/Ecolash/github-breakout/images/breakout-light.svg"
-  />
-  <img alt="GitHub Breakout Game" src="https://raw.githubusercontent.com/Ecolash/Ecolash/github-breakout/images/breakout-light.svg" />
-</picture> -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ecolash/Ecolash/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ecolash/Ecolash/github-breakout/images/breakout-light.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Ecolash/Ecolash/output/github-contribution-grid-snake.svg" style="width: 100%; height: auto;" />
-</picture>
 
-> <small>💡 <strong>Tip:</strong> Switch your GitHub theme (🌙 dark / ☀️ light) to toggle between the <strong>Breakout Game</strong> and the <strong>Snake Animation</strong>!</small>
+---
+## ✨ About Me  
 
-<!-- ## ✨ About Me  
-
-◉ Pursuing **B.Tech in Computer Science & Engineering** at [IIT Kharagpur ↗](https://www.iitkgp.ac.in/)                    
-◉ Exploring Software, AI & Systems, experimenting with languages, frameworks, and emerging tools.                   
-◉ Breaking code (and fixing it smarter), optimizing solutions, and learning through challenges.                   
-◉ Lifelong learner chasing the next big idea, diving into AI, cloud, and impactful projects.                   
-
-## 💻 Technical Interests:
-
-- 🚀 **Software Development**
-- 🧠 **Machine Learning** & AI Applications
-- 🏆 **Competitive Programming** & Algorithm Design
-- 🧩 **Problem Solving** & Analytical Thinking
-- 🖥️ **System Design** - OS, Computer Networks & Architecture
-- 🌐 **Web Development** & Full-Stack Applications
-
-## 🎯 Hobbies & Interests
-
-- 🎨 **Painting** - with colours brighter than my future
-- 🏏 **Cricket** - A cricket expert... until someone asks me the Duckworth-Lewis rule
-- ♟️ **Chess** - I've got one strategy: Blunder and pray opponent doesn't notice
-- 🎬 **Movies & Anime** - I know it's fiction... but my heart doesn’t.
-
-</div>
-</div> -->
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/Ecolash">
-  <img width="56.5%" src="https://github-readme-stats.vercel.app/api?username=ecolash&theme=github_dark&show_icons=true&icon_color=ff474c&title_color=ffcccc&include_all_commits=true&count_private=true&show=prs_merged,issues,contribs&cache_seconds=86400"/>
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecolash&layout=compact&theme=github_dark&langs_count=8&size_weight=0.25&count_weight=0.76&hide=HTML,CSS,Tcl,Assembly,Jupyter%20Notebook"/>
-</a>
-</p>
-
-<h3 style="font-family: sans-serif; text-decoration: none; cursor: none;">⚙ <span style="color: #00c2e0">Tech Stack:</span></h3>
+Currently pursuing my **B.Tech in CSE** at [IIT Kharagpur](https://www.iitkgp.ac.in/), I am a developer who loves **breaking code just to rebuild it better**. Driven by curiosity, I am on a mission to **solve real-world problems** through impactful projects and continuous learning.          
 
 
-<p align="center">
+<h3 style="font-family: sans-serif; text-decoration: none; cursor: none;">⚙ <span style="color: #ADD8E6">Tech Stack:</span></h3>
+
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="22"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="22"/>
@@ -105,41 +59,10 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="22"/>
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="22"/>
 
-</p>
-
-
-<!--
-<h4 style="font-family: sans-serif;">Core Stacks</h4>
-<div style="display: flex; gap:12px; flex-wrap: wrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=35/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=35/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=35/>
 </div>
 
-<h4 style="font-family: sans-serif;">Web Dev Stacks</h4>
-<div style="display: flex; gap:12px; flex-wrap: wrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width=35 style="filter: invert(1);"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=35 />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=35 />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width=35/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=35/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=35/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=35/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=35/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width=35/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width=35/>
-</div>
-  
-<h4 style="font-family: sans-serif;">Others</h4>
-<div style="display: flex; gap:12px; flex-wrap: wrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width=35 />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width=35/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width=35/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width=35/>
-</div>
--->
 
-<h3 style="font-family: sans-serif; text-decoration: none; cursor: none;"> 🌐 <span style="color: #00c2e0">Socials:</span></h3>
+<h3 style="font-family: sans-serif; text-decoration: none; cursor: none;"> 🌐 <span style="color: #ADD8E6">Socials:</span></h3>
 <p style="color: #fff; font-family: sans-serif;">
 <a href="https://in.linkedin.com/in/tuhin-mondal-52573b268">
   <img src="Images/linkedin.png" width="40" />
