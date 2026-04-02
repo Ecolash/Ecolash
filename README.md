@@ -1,7 +1,6 @@
 <div align="center">
 
-[![OpBento](https://opbento.vercel.app/api/bento/image?g=Ecolash&z=74bcc)]
-  
+![OpBento](https://opbento.vercel.app/api/bento/image?g=Ecolash&z=b8958)  
 
 ### **🎓 CSE Undergraduate @ IIT Kharagpur | Exploring AI, Software, & Systems**
 </div>
