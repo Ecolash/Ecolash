@@ -1,4 +1,4 @@
-const apiUrl = "https://opbento.vercel.app/api/bento?n=Tuhin%20Mondal&g=Ecolash&x=Tuhin_011&l=tuhin018&i=https%3A%2F%2Fraw.githubusercontent.com%2FEcolash%2FEcolash%2Frefs%2Fheads%2Fmain%2FImages%2Fbanner-pic.png&p=&z=2666d";
+const apiUrl = "https://opbento.vercel.app/api/bento?n=Tuhin%20Mondal&g=Ecolash&x=Tuhin_011&l=tuhin018&i=https%3A%2F%2Fi.postimg.cc%2Fk4sKNXdd%2F2.jpg&p=github.com%2FEcolash&z=b8958";
 
 interface BentoResponse {
   url: string;
@@ -10,7 +10,7 @@ const fetchBentoUrl = async (apiUrl: string): Promise<string> => {
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
     }
-    const data: BentoResponse = await response.json();
+    const data: BentoResponse = (await response.json()) as BentoResponse;
     return data.url;
   } catch (error) {
     console.error("Error fetching Bento URL:", error);
@@ -18,6 +18,5 @@ const fetchBentoUrl = async (apiUrl: string): Promise<string> => {
   }
 };
 
-
-// @ts-expect-error
-fetchBentoUrl(apiUrl);
+// @ts-ignore
+await fetchBentoUrl(apiUrl);
