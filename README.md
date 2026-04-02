@@ -1,6 +1,6 @@
 <div align="center">
 
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FEcolash2666d.png?alt=media)
+[![OpBento](https://opbento.vercel.app/api/bento/image?g=Ecolash&z=74bcc)]
   
 
 ### **🎓 CSE Undergraduate @ IIT Kharagpur | Exploring AI, Software, & Systems**
