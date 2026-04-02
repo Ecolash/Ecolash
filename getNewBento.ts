@@ -4,21 +4,20 @@ interface BentoResponse {
   url: string;
 }
 
-const fetchBentoUrl = async (apiUrl: string): Promise<string | null> => {
+const fetchBentoUrl = async (apiUrl: string): Promise<string> => {
   try {
     const response = await fetch(apiUrl);
-
     if (!response.ok) {
-      console.error(`HTTP error! status: ${response.status}`);
-      return null;
+      throw new Error(`HTTP error! status: ${response.status}`);
     }
-
     const data: BentoResponse = await response.json();
     return data.url;
   } catch (error) {
     console.error("Error fetching Bento URL:", error);
-    return null;
+    throw error;
   }
 };
 
+
+// @ts-expect-error
 fetchBentoUrl(apiUrl);
