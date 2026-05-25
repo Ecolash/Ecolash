@@ -29,6 +29,7 @@ Currently pursuing my **B.Tech in CSE** at [IIT Kharagpur](https://www.iitkgp.ac
 <img src="https://img.shields.io/badge/Verilog-FF0000?style=for-the-badge&logoColor=white" height="22"/>
 <img src="https://img.shields.io/badge/AWK-000000?style=for-the-badge&logoColor=white" height="22"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="22"/>
+
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="22"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="22"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="22"/>
@@ -38,6 +39,8 @@ Currently pursuing my **B.Tech in CSE** at [IIT Kharagpur](https://www.iitkgp.ac
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="22"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="22"/>
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="22"/>
+
 <img src="https://img.shields.io/badge/HuggingFace-FF9900?style=for-the-badge&logo=huggingface&logoColor=white" height="22"/>
 <img src="https://img.shields.io/badge/C++_STL-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="22"/>
 <img src="https://img.shields.io/badge/POSIX-000000?style=for-the-badge&logoColor=white" height="22"/>
@@ -47,6 +50,7 @@ Currently pursuing my **B.Tech in CSE** at [IIT Kharagpur](https://www.iitkgp.ac
 <img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="22"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="22"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="22"/>
+
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="22"/>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="22"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="22"/>
@@ -57,7 +61,8 @@ Currently pursuing my **B.Tech in CSE** at [IIT Kharagpur](https://www.iitkgp.ac
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="22"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="22"/>
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="22"/>
-
+<img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/TeX-3D6117?style=for-the-badge&logo=latex&logoColor=white" height="22"/>
 </div>
 
 
