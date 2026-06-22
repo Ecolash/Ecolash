@@ -8,8 +8,8 @@
 ---
 ## ✨ About Me  
 
-Currently pursuing my **B.Tech in CSE** at [IIT Kharagpur](https://www.iitkgp.ac.in/), I am a developer who loves **breaking code just to rebuild it better**. Driven by curiosity, I am on a mission to **solve real-world problems** through impactful projects and continuous learning.          
-
+Currently, I'm a **Software Engineer** at [Glean](https://www.glean.com/). I completed my **B.Tech in Computer Science & Engineering** at [IIT Kharagpur](https://www.iitkgp.ac.in/). I love **breaking code just to rebuild it better**. These days you'll often find me vibe-coding, but never vibe-engineering: AI can write code, but good engineering still comes from thoughtful design, solid systems, and relentless curiosity. 
+*P.S. git push --force is a feature... not a lifestyle.*
 
 <h3 style="font-family: sans-serif; text-decoration: none; cursor: none;">⚙ <span style="color: #ADD8E6">Tech Stack:</span></h3>
 
